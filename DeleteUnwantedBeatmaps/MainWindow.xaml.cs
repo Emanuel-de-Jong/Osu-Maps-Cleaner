@@ -333,7 +333,7 @@ namespace DeleteUnwantedBeatmaps
                     }
                     else if (line.Contains("CircleSize") && line.LastIndexOf("CircleSize") <= 0 && mode == 3)
                     {
-                        int key = Convert.ToInt16(line.Substring(line.Length - 2, 2));
+                        int key = Convert.ToInt16(line.Substring(line.Length - 1, 1));
                         // checks if the key mode is contained in "maniaKeys"
                         if (!maniaKeys.Contains(key))
                         {

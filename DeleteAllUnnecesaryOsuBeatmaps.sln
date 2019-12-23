@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.106
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteUnwantedBeatmaps", "DeleteUnwantedBeatmaps\DeleteUnwantedBeatmaps.csproj", "{8D541971-D8D5-42C4-B7B4-9AB648987CE8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{0D13A29B-5DEA-41AE-BBE6-81CF32778F94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{8D541971-D8D5-42C4-B7B4-9AB648987CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D541971-D8D5-42C4-B7B4-9AB648987CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D541971-D8D5-42C4-B7B4-9AB648987CE8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0D13A29B-5DEA-41AE-BBE6-81CF32778F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0D13A29B-5DEA-41AE-BBE6-81CF32778F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0D13A29B-5DEA-41AE-BBE6-81CF32778F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0D13A29B-5DEA-41AE-BBE6-81CF32778F94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
