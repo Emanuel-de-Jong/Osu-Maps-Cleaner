@@ -1,0 +1,22 @@
+﻿<Window x:Class="DeleteUnwantedBeatmaps.ProgressWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DeleteUnwantedBeatmaps"
+        mc:Ignorable="d"
+        Title="Progress" Height="200" Width="300" ResizeMode="NoResize">
+    <StackPanel>
+        <StackPanel.Background>
+            <ImageBrush ImageSource="images/EromangaSenseiIrritated70op.png"/>
+        </StackPanel.Background>
+        <!-- labels that tell the user the progress of the process -->
+        <Label FontWeight="Bold" HorizontalAlignment="Center" Content="Deleting Folders."/>
+        <Label FontWeight="Bold" HorizontalAlignment="Center" Content="This may take multiple Minutes..."/>
+        <!-- these labels will first be visible when the tasks they describe have been fullfiled -->
+        <Label Visibility="Hidden" Content="Completed - deleting duplicate folders" Name="DupDelMsg"/>
+        <Label Visibility="Hidden" Content="Completed - deleting unwanted files" Name="FileDelMsg"/>
+        <Label Visibility="Hidden" Content="Completed - deleting empty folders" Name="EmpFolDelMsg"/>
+        <Label Visibility="Hidden" FontWeight="Bold" HorizontalAlignment="Center" Content="All Done OwO" Name="DoneOwO"/>
+    </StackPanel>
+</Window>
