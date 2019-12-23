@@ -21,11 +21,11 @@ Let's you clean your osu songs folder by selecting which kind of beatmaps you wo
 - Useable: No
 - Reason useability: It might delete wanted beatmaps
 - Main features included: 
- - Selecting which beatmaps to keep
-  - Input validation
+   - Selecting which beatmaps to keep
+   - Input validation
 - Main features missing: 
- - A working loading window
- - A working cleaning process
+   - A working loading window
+   - A working cleaning process
 
 
 ## Screenshots
