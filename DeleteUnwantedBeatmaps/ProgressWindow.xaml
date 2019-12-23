@@ -7,9 +7,11 @@
         mc:Ignorable="d"
         Title="Progress" Height="200" Width="300" ResizeMode="NoResize">
     <StackPanel>
+        <!--
         <StackPanel.Background>
             <ImageBrush ImageSource="images/EromangaSenseiIrritated70op.png"/>
         </StackPanel.Background>
+        -->
         <!-- labels that tell the user the progress of the process -->
         <Label FontWeight="Bold" HorizontalAlignment="Center" Content="Deleting Folders."/>
         <Label FontWeight="Bold" HorizontalAlignment="Center" Content="This may take multiple Minutes..."/>

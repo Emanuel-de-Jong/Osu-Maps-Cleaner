@@ -37,9 +37,11 @@
     </Window.Resources>
     
     <Grid>
+        <!--
         <Grid.Background>
             <ImageBrush ImageSource="/images/GasolineIsTasty50op.png" Stretch="UniformToFill"/>
         </Grid.Background>
+        -->
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
