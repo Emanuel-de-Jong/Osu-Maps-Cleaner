@@ -16,8 +16,8 @@ Let's you clean your osu songs folder by selecting which kind of beatmaps you wo
 - Frameworks and libraries: .Net Framework, WPF
 
 ## Progress
-- Start date: 01.05.19
-- Last change: 02.05.19
+- Start date: 2019-05-01
+- Last change: 2019-05-02
 - Activity status: Abandoned
 - Reason activity status: There was a bug I didn't know how to fix back then so I stopped
 - Completion status: 85%
