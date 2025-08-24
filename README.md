@@ -1,8 +1,12 @@
-# Osu-Maps-Cleaner
- 
-## Description
+# Osu Maps Cleaner
 Let's you clean your osu songs folder by selecting which kind of beatmaps you would like to keep.
 
+**Active Development:** <br>
+**Last Change:** <br>
+
+| | |
+| :---: | :---: |
+| ![](/Screenshots/1-Main_Window.png) | ![](/Screenshots/2-Loading_Window.png) |
 
 ## Information
 - Type: Windows Application
@@ -10,7 +14,6 @@ Let's you clean your osu songs folder by selecting which kind of beatmaps you wo
 - Language: English
 - Programming languages: C#
 - Frameworks and libraries: .Net Framework, WPF
-
 
 ## Progress
 - Start date: 01.05.19
@@ -26,9 +29,3 @@ Let's you clean your osu songs folder by selecting which kind of beatmaps you wo
 - Main features missing: 
    - A working loading window
    - A working cleaning process
-
-
-## Screenshots
-![](/Screenshots/Main%20Window.png)
-
-![](/Screenshots/Loading%20Window.png)
