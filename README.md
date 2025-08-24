@@ -1,5 +1,5 @@
 # Osu Maps Cleaner
-Let's you clean your osu songs folder by selecting which kind of beatmaps you would like to keep.
+Lets you clean your osu songs folder by selecting which kind of beatmaps you would like to keep.
 
 **Active Development:** <br>
 **Last Change:** <br>
