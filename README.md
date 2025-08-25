@@ -1,8 +1,8 @@
 # Osu Maps Cleaner
 Lets you clean your osu songs folder by selecting which kind of beatmaps you would like to keep.
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2019-05-01 - 2019-05-02<br>
+**Last Change:** 2019-05-02<br>
 
 | | |
 | :---: | :---: |
@@ -16,9 +16,7 @@ Lets you clean your osu songs folder by selecting which kind of beatmaps you wou
 - Frameworks and libraries: .Net Framework, WPF
 
 ## Progress
-- Start date: 2019-05-01
-- Last change: 2019-05-02
-- Activity status: Abandoned
+- Activity status: Archived
 - Reason activity status: There was a bug I didn't know how to fix back then so I stopped
 - Completion status: 85%
 - Useable: No
