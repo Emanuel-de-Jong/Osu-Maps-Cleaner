@@ -27,3 +27,4 @@ Lets you clean your osu songs folder by selecting which kind of beatmaps you wou
 - Main features missing: 
    - A working loading window
    - A working cleaning process
+ 
